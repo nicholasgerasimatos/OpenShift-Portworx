@@ -1,5 +1,12 @@
-# OpenShift - Pure Storage Validated Design Implementation Guideacpl**Purpose of this Document:**:This comprehensive guide provides detailed instructions and best practices for planning, implementing, operating, and maintaining a Cisco Validated Design (CVD) for FlashStack with Red Hat OpenShift Container Platform on bare metal. It covers Cisco UCS infrastructure, Pure Storage integration, OpenShift installation, configuration, and ongoing management.st**Target Audience:**gThis document is intended for experienced infrastructure engineers, OpenShift administrators, solution architects, and technical personnel responsible for deploying and managing FlashStack solutions with OpenShift Container Platform. A foundational understanding of Cisco UCS, Pure Storage, Red Hat OpenShift, networking, and virtualization concepts is assumed. 
-**Disclaimer:**
+# OpenShift - Pure Storage Validated Design Implementation Guide
+
+**Purpose of this Document**
+
+This comprehensive guide provides detailed instructions and best practices for planning, implementing, operating, and maintaining a Cisco Validated Design (CVD) for FlashStack with Red Hat OpenShift Container Platform on bare metal. It covers Cisco UCS infrastructure, Pure Storage integration, OpenShift installation, configuration, and ongoing management.st**Target Audience:**
+
+This document is intended for experienced infrastructure engineers, OpenShift administrators, solution architects, and technical personnel responsible for deploying and managing FlashStack solutions with OpenShift Container Platform. A foundational understanding of Cisco UCS, Pure Storage, Red Hat OpenShift, networking, and virtualization concepts is assumed. 
+
+**Disclaimer**
 This guide provides recommendations and procedures based on a validated design. However, every environment is unique. Users should always refer to the latest official documentation from Cisco, Pure Storage, and Red Hat. Thoroughly test all configurations in a non-production environment before implementing in production.
 
 ## Table of Contents
